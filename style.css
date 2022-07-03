@@ -1,14 +1,6 @@
-*{
-	box-sizing: border-box;
-}
-clearfix::after{
-	content: "";
-	display: table;
-	clear: both;
-
-}
 body{
 	background-color: pink;
+	border: 10px dotted red;
 }
 h1, p{
 	text-align: center;
@@ -32,9 +24,7 @@ header{
 	height: 50px;
 	margin: 5px;
 }
-section{
-	border: 10px dotted red;
-}
+
 footer{
 	background-color: black;
 	margin: 5px;
