@@ -28,6 +28,7 @@ header{
 footer{
 	background-color: black;
 	margin: 5px;
+	bottom: 0;
 }
 .c1{
 	float: left;
